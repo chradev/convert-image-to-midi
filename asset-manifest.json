@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/convert-image-to-midi/static/css/main.f855e6bc.css",
+    "main.js": "/convert-image-to-midi/static/js/main.f6f01e52.js",
+    "static/js/453.08a1103f.chunk.js": "/convert-image-to-midi/static/js/453.08a1103f.chunk.js",
+    "static/media/CdiscountSite.png": "/convert-image-to-midi/static/media/CdiscountSite.4bf7b0ecadce461277d6.png",
+    "static/media/CdiscountLogo.png": "/convert-image-to-midi/static/media/CdiscountLogo.743a7311873755de315f.png",
+    "static/media/CdiscountSite-column-1.png": "/convert-image-to-midi/static/media/CdiscountSite-column-1.85dae90cf3006fada75c.png",
+    "static/media/CdiscountSite-column-6.png": "/convert-image-to-midi/static/media/CdiscountSite-column-6.6ae854a213fb10088ea0.png",
+    "static/media/CdiscountSite-column-3.png": "/convert-image-to-midi/static/media/CdiscountSite-column-3.bf12f175bcb222b96437.png",
+    "static/media/CdiscountLogo-column-3.png": "/convert-image-to-midi/static/media/CdiscountLogo-column-3.6c0d13b826706e1701e5.png",
+    "static/media/CdiscountSite-column-2.png": "/convert-image-to-midi/static/media/CdiscountSite-column-2.d2ce4ad7b31126930beb.png",
+    "static/media/CdiscountSite-column-5.png": "/convert-image-to-midi/static/media/CdiscountSite-column-5.0200852384f89b7ae0c4.png",
+    "static/media/CdiscountLogo-column-4.png": "/convert-image-to-midi/static/media/CdiscountLogo-column-4.ed69d3995f1f3f16a0d8.png",
+    "static/media/logo_bdx_io.png": "/convert-image-to-midi/static/media/logo_bdx_io.3c7014a4652bab86e6d1.png",
+    "static/media/CdiscountSite-column-4.png": "/convert-image-to-midi/static/media/CdiscountSite-column-4.489a5f12b1f476323877.png",
+    "static/media/CdiscountLogo-column-5.png": "/convert-image-to-midi/static/media/CdiscountLogo-column-5.25bfa6ea5c71b4652e82.png",
+    "static/media/CdiscountLogo-column-2.png": "/convert-image-to-midi/static/media/CdiscountLogo-column-2.c58cdd6f7465b488864f.png",
+    "static/media/logo.svg": "/convert-image-to-midi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/convert-image-to-midi/index.html",
+    "main.f855e6bc.css.map": "/convert-image-to-midi/static/css/main.f855e6bc.css.map",
+    "main.f6f01e52.js.map": "/convert-image-to-midi/static/js/main.f6f01e52.js.map",
+    "453.08a1103f.chunk.js.map": "/convert-image-to-midi/static/js/453.08a1103f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f6f01e52.js"
+  ]
+}
