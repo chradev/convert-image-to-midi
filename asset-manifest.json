@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/convert-image-to-midi/static/css/main.f855e6bc.css",
-    "main.js": "/convert-image-to-midi/static/js/main.f6f01e52.js",
+    "main.js": "/convert-image-to-midi/static/js/main.9584835b.js",
     "static/js/453.08a1103f.chunk.js": "/convert-image-to-midi/static/js/453.08a1103f.chunk.js",
     "static/media/CdiscountSite.png": "/convert-image-to-midi/static/media/CdiscountSite.4bf7b0ecadce461277d6.png",
     "static/media/CdiscountLogo.png": "/convert-image-to-midi/static/media/CdiscountLogo.743a7311873755de315f.png",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "/convert-image-to-midi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/convert-image-to-midi/index.html",
     "main.f855e6bc.css.map": "/convert-image-to-midi/static/css/main.f855e6bc.css.map",
-    "main.f6f01e52.js.map": "/convert-image-to-midi/static/js/main.f6f01e52.js.map",
+    "main.9584835b.js.map": "/convert-image-to-midi/static/js/main.9584835b.js.map",
     "453.08a1103f.chunk.js.map": "/convert-image-to-midi/static/js/453.08a1103f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f6f01e52.js"
+    "static/js/main.9584835b.js"
   ]
 }
